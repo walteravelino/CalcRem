@@ -2,7 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.smc.calcrem"
     android:targetSandboxVersion="2"
-    android:versionCode="1"
+    android:versionCode="4"
     android:versionName="1.0.0" >
 
     <uses-sdk
@@ -21,7 +21,7 @@
         android:icon="@mipmap/ic_launcher"
         android:label="CalcRem" >
         <activity
-            android:name="com.smc.calcrem.MainActivity"
+            android:name="com.shariq.shehriyar.calculator.MainActivity"
             android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
             android:hardwareAccelerated="true"
             android:launchMode="singleTop"

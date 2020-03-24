@@ -1,6 +1,6 @@
-# Referenced at /Users/walteravelino/GitHub/CalcRem/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:17
+# Referenced at /Users/walteravelino/Downloads/ShehriyarShariq-FlutterCalculator-74e5527 2/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:17
 -keep class androidx.core.app.CoreComponentFactory { <init>(); }
-# Referenced at /Users/walteravelino/GitHub/CalcRem/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:22
--keep class com.smc.calcrem.MainActivity { <init>(); }
-# Referenced at /Users/walteravelino/GitHub/CalcRem/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:17
+# Referenced at /Users/walteravelino/Downloads/ShehriyarShariq-FlutterCalculator-74e5527 2/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:22
+-keep class com.shariq.shehriyar.calculator.MainActivity { <init>(); }
+# Referenced at /Users/walteravelino/Downloads/ShehriyarShariq-FlutterCalculator-74e5527 2/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:17
 -keep class io.flutter.app.FlutterApplication { <init>(); }
